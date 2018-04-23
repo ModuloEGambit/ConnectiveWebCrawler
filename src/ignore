@@ -1,0 +1,7 @@
+//file to check symbols to ignore
+edit
+^
+{
+[
+]
+}
